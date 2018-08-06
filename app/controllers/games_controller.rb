@@ -33,6 +33,5 @@ class GamesController < ApplicationController
     json['found']
   end
 
-
 end
 
